@@ -4,7 +4,7 @@ title:  "Tech Education Startup Company"
 time:   "Sep. 2019 – now"
 image: images/NI.jpg
 categories: Internships
-background: "thinkredsharing.com"
+background: "https://thinkredsharing.com"
 authors: "Next Innovation"
 Duty: "Founder & CEO"
 ---
