@@ -7,7 +7,7 @@ categories: research
 background: "https://faser.me.vt.edu/projects.html"
 authors: "Field and Space Experimental Robotics (FASER) Laboratory"
 poster: "/pdfs/Poster.pdf"
-video: "https://www.youtube.com/watch?v=Pu3SE3M_3R0&t=22s"
+video: "Video/plat.mp4"
 keyword: <img src="https://img.shields.io/badge/-MATLAB-blue"/>&nbsp;<img src="https://img.shields.io/badge/-Mechanical%20Design-yellow"/>&nbsp;<img src="https://img.shields.io/badge/-OpenCV-red"/>
 ---
 **This project aimed to designed and build the Stewart Platform — the parallel robots capable of high-precision manipulation to assemble the structure automatically in uncertain environments (e.g. the lunar or Martian surface) by collaborative robotic agents.**
