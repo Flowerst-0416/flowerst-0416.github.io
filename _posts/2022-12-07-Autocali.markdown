@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Auto Calibration Toolbox"
+time:   "2022.10 – 2022.12"
+image: images/int_motion.gif
+categories: project
+authors: "Fujun Ruan & Yuchen Wu, Siyu Zhou"
+poster: "pdfs/24678.pdf"
+code: "https://github.com/Flowerst-0416/UR_arm_camera_calibration"
+keyword: <img src="https://img.shields.io/badge/-Python-blue" alt="CAD"/>&nbsp;<img src="https://img.shields.io/badge/-C++-blue" alt="CAD"/>&nbsp;<img src="https://img.shields.io/badge/-UR5e-yellow" alt="Mechanical%20Design"/>&nbsp;<img src="https://img.shields.io/badge/-ROS-red"/>&nbsp;<img src="https://img.shields.io/badge/-Camera%20Calibration-orange"/>
+---
+**The project aims to build a camera calibration toolbox based on robotic arm control. The goals of the project include:**
+
+- Building a toolbox that improves calibration efficiency and accuracy
+- Using a robotic arm to plan calibration paths according to the type of calibration in order to provide high-quality calibration samples
+- Providing a validation method for completed calibration processes to enable rapid verification
+- Types of calibrations include: camera intrinsic calibration, hand-eye calibration, and laser extrinsic calibration.

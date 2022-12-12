@@ -6,6 +6,7 @@ image: images/four_leg.jpg
 categories: research
 background: "https://www.kavehakbarihamed.com/"
 authors: "Hybrid Dynamic Systems and Robot Locomotion (HDSRL) Laboratory"
+keyword: <img src="https://img.shields.io/badge/-CAD-yellow" alt="CAD"/>&nbsp;<img src="https://img.shields.io/badge/-Mechanical%20Design-yellow" alt="机械设计"/>
 ---
 **This project aimed to design and build a quadruped dog shape robot to complete rescue missions in dangerous environments.**
 

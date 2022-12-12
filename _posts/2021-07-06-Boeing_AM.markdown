@@ -5,9 +5,12 @@ time:   "Aug. 2021 – Present"
 image: images/Boeing_AM.jpg
 categories: research
 authors: "Biorobotics Lab, Carnegie Mellon University"
-video: "https://drive.google.com/file/d/1HMNci6fRbC42x_stVa5gN7xq2RlX9AQz/view?usp=sharing"
+poster: "pdfs/AM_Poster.pdf"
+video: "Video/Boeing_video.mp4"
+keyword: <img src="https://img.shields.io/badge/-Python-blue" alt="CAD"/>&nbsp;<img src="https://img.shields.io/badge/-C++-blue" alt="CAD"/>&nbsp;<img src="https://img.shields.io/badge/-Solidworks-yellow" alt="机械设计"/>&nbsp;<img src="https://img.shields.io/badge/-UR5e-yellow" alt="机械设计"/>&nbsp;<img src="https://img.shields.io/badge/-ROS-red"/>
 ---
 **This project aim to design a system that combine advanced sense capability and plan to conventional manufacturing techniques.**
-- Designed the end-effectors that incorporate the additive manufacturing process and install it on the Universal Robots Arm.
-- Developed a fixed multi-arm platform with additive and inspection end effector to apply in the hybrid manufacturing process.
-- Built a “3D copier” system based on the fixed multi-arm platform
+- Develop a multi-mechanical system with additive, subtractive processing and laser scanner end-effector for aircraft inspection and maintenance
+- Based on multi-mechanical platforms, develop a 3D copying and repair system for intelligent pipeline welding and hybrid machining solutions
+- Construct a dual-arm system simulation environment to implement path coverage planning and real-time visual feedback applied to aircraft (Boeing 787) painting
+- Build a self-developed robotic arm 3D scanner calibration tool system for fast and labor-saving hand-eye, camera extrinsic calibration and laser calibration
