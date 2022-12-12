@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "点云视频输出器"
+title:  "Pointcloud demo video generator"
 time:   "2022.10 – 2022.12"
 image: images/pcl2video.gif
 categories: project
