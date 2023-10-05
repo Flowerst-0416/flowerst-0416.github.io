@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "In-situ multimodal inspection technique for Robotic Wire Arc Additive Manufacturing (rWAAM)"
-time:   "May. 2021 – Present"
+time:   "May. 2021 – May. 2023"
 image: images/WAAM.jpg
 categories: research
 news: "https://www.cmu.edu/news/stories/archives/2022/january/biden-visits-mill-19.html"
